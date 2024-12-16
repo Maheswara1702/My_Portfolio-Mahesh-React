@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Maheswara1702/My_Portfolio-Mahesh-React.git",
+  "homepage": "https://maheswara1702.github.io/My_Portfolio-Mahesh-React/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
