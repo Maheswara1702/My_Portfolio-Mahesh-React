@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/css/main.38902a5e.css",
-    "main.js": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/main.9a16a16f.js",
-    "static/js/453.ed3810f9.chunk.js": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/award2.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/award2.1a4c9a98c8d2c173756a.jpg",
-    "static/media/Portofolio.png": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/Portofolio.7fcfba0c2e71e13e7866.png",
-    "static/media/award.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/award.7b1915e8a64142adf2e5.jpg",
-    "static/media/Calculator.png": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/Calculator.e428d99bd50cf3e5914a.png",
-    "static/media/medical.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/medical.1e452bcd86e891397d03.jpg",
-    "static/media/bloodBank.png": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/bloodBank.9624f981d3503d55e83b.png",
-    "static/media/bankImage2.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/bankImage2.3ff967702b1c0f63ef25.jpg",
-    "static/media/AtmSimulator.png": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/AtmSimulator.b9b9a46ecb55da511833.png",
-    "static/media/bankImage.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/bankImage.77872cd7a6d6bca8f9a4.jpg",
-    "static/media/profilePic.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/profilePic.b4ec06e2308c9ebd0d7a.jpg",
-    "static/media/html.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/html.03597f693aae57405a94.jpg",
-    "static/media/java.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/java.0057e74e798bf3c1ea71.jpg",
-    "index.html": "/Maheswara1702/My_Portfolio-Mahesh-React.git/index.html",
-    "main.38902a5e.css.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/css/main.38902a5e.css.map",
-    "main.9a16a16f.js.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/main.9a16a16f.js.map",
-    "453.ed3810f9.chunk.js.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/My_Portfolio-Mahesh-React/static/css/main.3b4a67d3.css",
+    "main.js": "/My_Portfolio-Mahesh-React/static/js/main.0db3183d.js",
+    "static/js/453.ed3810f9.chunk.js": "/My_Portfolio-Mahesh-React/static/js/453.ed3810f9.chunk.js",
+    "static/media/award2.jpg": "/My_Portfolio-Mahesh-React/static/media/award2.1a4c9a98c8d2c173756a.jpg",
+    "static/media/Portofolio.png": "/My_Portfolio-Mahesh-React/static/media/Portofolio.7fcfba0c2e71e13e7866.png",
+    "static/media/award.jpg": "/My_Portfolio-Mahesh-React/static/media/award.7b1915e8a64142adf2e5.jpg",
+    "static/media/Calculator.png": "/My_Portfolio-Mahesh-React/static/media/Calculator.e428d99bd50cf3e5914a.png",
+    "static/media/medical.jpg": "/My_Portfolio-Mahesh-React/static/media/medical.1e452bcd86e891397d03.jpg",
+    "static/media/bloodBank.png": "/My_Portfolio-Mahesh-React/static/media/bloodBank.9624f981d3503d55e83b.png",
+    "static/media/bankImage2.jpg": "/My_Portfolio-Mahesh-React/static/media/bankImage2.3ff967702b1c0f63ef25.jpg",
+    "static/media/AtmSimulator.png": "/My_Portfolio-Mahesh-React/static/media/AtmSimulator.b9b9a46ecb55da511833.png",
+    "static/media/bankImage.jpg": "/My_Portfolio-Mahesh-React/static/media/bankImage.77872cd7a6d6bca8f9a4.jpg",
+    "static/media/profilePic.jpg": "/My_Portfolio-Mahesh-React/static/media/profilePic.b4ec06e2308c9ebd0d7a.jpg",
+    "static/media/html.jpg": "/My_Portfolio-Mahesh-React/static/media/html.03597f693aae57405a94.jpg",
+    "static/media/java.jpg": "/My_Portfolio-Mahesh-React/static/media/java.0057e74e798bf3c1ea71.jpg",
+    "index.html": "/My_Portfolio-Mahesh-React/index.html",
+    "main.3b4a67d3.css.map": "/My_Portfolio-Mahesh-React/static/css/main.3b4a67d3.css.map",
+    "main.0db3183d.js.map": "/My_Portfolio-Mahesh-React/static/js/main.0db3183d.js.map",
+    "453.ed3810f9.chunk.js.map": "/My_Portfolio-Mahesh-React/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38902a5e.css",
-    "static/js/main.9a16a16f.js"
+    "static/css/main.3b4a67d3.css",
+    "static/js/main.0db3183d.js"
   ]
 }
