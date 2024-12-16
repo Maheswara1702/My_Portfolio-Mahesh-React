@@ -32,7 +32,7 @@ const projects = [
     title: "Portfolio Website",
     description: "A personal portfolio showcasing my skills and projects and About Me.This is website is done using react and material ui.",
     image: image2,
-    link:"https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/Bank-Application-Using-Advanced-Java",
+    link:"https://github.com/Maheswara1702/My_Portfolio-Mahesh-React",
   },
   {
     id: 3,
