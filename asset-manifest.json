@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/css/main.38902a5e.css",
-    "main.js": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/main.1ff411c6.js",
+    "main.js": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/main.9a16a16f.js",
     "static/js/453.ed3810f9.chunk.js": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/453.ed3810f9.chunk.js",
     "static/media/award2.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/award2.1a4c9a98c8d2c173756a.jpg",
     "static/media/Portofolio.png": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/Portofolio.7fcfba0c2e71e13e7866.png",
@@ -17,11 +17,11 @@
     "static/media/java.jpg": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/media/java.0057e74e798bf3c1ea71.jpg",
     "index.html": "/Maheswara1702/My_Portfolio-Mahesh-React.git/index.html",
     "main.38902a5e.css.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/css/main.38902a5e.css.map",
-    "main.1ff411c6.js.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/main.1ff411c6.js.map",
+    "main.9a16a16f.js.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/main.9a16a16f.js.map",
     "453.ed3810f9.chunk.js.map": "/Maheswara1702/My_Portfolio-Mahesh-React.git/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38902a5e.css",
-    "static/js/main.1ff411c6.js"
+    "static/js/main.9a16a16f.js"
   ]
 }
