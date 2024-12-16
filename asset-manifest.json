@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My_Portfolio-Mahesh-React/static/css/main.3b4a67d3.css",
-    "main.js": "/My_Portfolio-Mahesh-React/static/js/main.0db3183d.js",
+    "main.js": "/My_Portfolio-Mahesh-React/static/js/main.3a264beb.js",
     "static/js/453.ed3810f9.chunk.js": "/My_Portfolio-Mahesh-React/static/js/453.ed3810f9.chunk.js",
     "static/media/award2.jpg": "/My_Portfolio-Mahesh-React/static/media/award2.1a4c9a98c8d2c173756a.jpg",
     "static/media/Portofolio.png": "/My_Portfolio-Mahesh-React/static/media/Portofolio.7fcfba0c2e71e13e7866.png",
@@ -17,11 +17,11 @@
     "static/media/java.jpg": "/My_Portfolio-Mahesh-React/static/media/java.0057e74e798bf3c1ea71.jpg",
     "index.html": "/My_Portfolio-Mahesh-React/index.html",
     "main.3b4a67d3.css.map": "/My_Portfolio-Mahesh-React/static/css/main.3b4a67d3.css.map",
-    "main.0db3183d.js.map": "/My_Portfolio-Mahesh-React/static/js/main.0db3183d.js.map",
+    "main.3a264beb.js.map": "/My_Portfolio-Mahesh-React/static/js/main.3a264beb.js.map",
     "453.ed3810f9.chunk.js.map": "/My_Portfolio-Mahesh-React/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b4a67d3.css",
-    "static/js/main.0db3183d.js"
+    "static/js/main.3a264beb.js"
   ]
 }
